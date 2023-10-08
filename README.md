@@ -1,5 +1,7 @@
 # Andrei Shamanouski
+
 Frontend developer
+
 --------
 ## Skills
 * HTML, CSS, SCSS
