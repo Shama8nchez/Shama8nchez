@@ -1,6 +1,17 @@
 # Andrei Shamanouski
-## Minsk, Belarus
-### Frontend developer
+## Frontend developer
+--------
+## Skills
+* HTML, CSS, SCSS
+* JS, TS
+* React
+* Redux, Redux Toolkit
+* Vue, Vuex
+* Git/GitHub, Webpack, Vite, npm
+--------
+## Projects
+NHL-Stats[https://github.com/Shama8nchez/rsschool-cv](https://nhl-shama8nchez.netlify.app/)
+
 <!--
 **Shama8nchez/Shama8nchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
