@@ -1,6 +1,6 @@
-### Andrei Shamanouski
+# Andrei Shamanouski
 ## Minsk, Belarus
-# Frontend developer
+### Frontend developer
 <!--
 **Shama8nchez/Shama8nchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
