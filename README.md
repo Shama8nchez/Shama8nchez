@@ -1,5 +1,5 @@
 # Andrei Shamanouski
-## Frontend developer
+Frontend developer
 --------
 ## Skills
 * HTML, CSS, SCSS
@@ -10,12 +10,12 @@
 * Git/GitHub, Webpack, Vite, npm
 --------
 ## Projects
-[NHL-Stat](https://nhl-shama8nchez.netlify.app/)
-React, Redux Toolkit, TS
+[NHL-Stat](https://nhl-shama8nchez.netlify.app/)<br>
+React, Redux Toolkit, TS<br>
 [Repository](https://github.com/Shama8nchez/nhl-stats/tree/develop)
 
-[Internet-Bank](https://rsbank-mirror.netlify.app/login)
-HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB
+[Internet-Bank](https://rsbank-mirror.netlify.app/login)<br>
+HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB<br>
 [Repository](https://github.com/Shama8nchez/nhl-stats/tree/develop)
 <!--
 **Shama8nchez/Shama8nchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
