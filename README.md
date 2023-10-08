@@ -10,8 +10,13 @@
 * Git/GitHub, Webpack, Vite, npm
 --------
 ## Projects
-NHL-Stats[https://github.com/Shama8nchez/rsschool-cv](https://nhl-shama8nchez.netlify.app/)
+[NHL-Stat](https://nhl-shama8nchez.netlify.app/)
+React, Redux Toolkit, TS
+[Repository](https://github.com/Shama8nchez/nhl-stats/tree/develop)
 
+[Internet-Bank](https://rsbank-mirror.netlify.app/login)
+HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB
+[Repository](https://github.com/Shama8nchez/nhl-stats/tree/develop)
 <!--
 **Shama8nchez/Shama8nchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
