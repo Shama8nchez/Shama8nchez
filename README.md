@@ -12,7 +12,7 @@ Frontend developer
 * Git/GitHub, Webpack, Vite, npm
 --------
 ## Projects
-[NHL-Stat](https://nhl-shama8nchez.netlify.app/)<br>
+[NHL-Stats](https://nhl-shama8nchez.netlify.app/)<br>
 React, Redux Toolkit, TS<br>
 [Repository](https://github.com/Shama8nchez/nhl-stats/tree/develop)
 
